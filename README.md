@@ -1,6 +1,5 @@
-# Vue Todo App with Typescript and Vue 3
+# todo-app-vuex-typescript
 
-<img src="src/assets/todo_app_typescript.png" atl="vue todo app using typescript">
 
 ## Project setup
 ```
@@ -24,4 +23,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# todo-app-vuex-typescript
+
